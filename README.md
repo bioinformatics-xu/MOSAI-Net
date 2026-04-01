@@ -57,7 +57,7 @@ Researchers interested in accessing the data may contact the authors.
 Clone the repository:
 
 ```bash
-git clone https://github.com/bioinformatics-xu/MOSAI-Net.git
+git clone https://github.com/bioinformatics-xu/DyGraph.git
 cd MOSAI-Net
 ```
 ---
