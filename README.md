@@ -1,10 +1,10 @@
-# MOSAI-Net
+# DyGraph
 
-**MOSAI-Net: MultimOdal Selection and Adaptive Interaction on Graph Networks for Cancer Recurrence Prediction**
+**Dynamic Graph Structure Learning with Modality-Selective for Multimodal Cancer Recurrence Prediction**
 
 ## Overview
 
-MOSAI-Net is a graph neural network framework for cancer recurrence prediction using multimodal clinical data.  
+DyGraph is a graph neural network framework for cancer recurrence prediction using multimodal clinical data.  
 It effectively handles modality incompleteness while preserving modality specificity via a Multimodal Complementary Graph Builder, an Adaptive Modality Selection Fusion Module, and a Dynamic Graph Structure Optimization Network.
 
 ---
